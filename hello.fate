@@ -1,0 +1,7 @@
+from io import print
+
+def hello(name)
+    { name} | "Hello, %name!"
+end
+
+"World" | hello | print
